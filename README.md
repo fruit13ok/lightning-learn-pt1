@@ -8,7 +8,7 @@ What is a container:
 https://www.docker.com/resources/what-container
 
 Quick tutorial
-https://www.docker.com/why-docker
+https://www.youtube.com/watch?v=YFl2mCHdv24
 
 
 Docker creates a virtual environment that allows multiple contributions from multiple sources, regardless of platform. For instance, an app created in Windows can be worked on by someone using a Mac via a Docker container. The container receives instructions on how to run the app as well as app requirements through an image file (Dockerfile). The image file:
