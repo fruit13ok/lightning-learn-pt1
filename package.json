@@ -1,0 +1,22 @@
+{
+  "name": "lightning-learn-pt1",
+  "version": "1.0.0",
+  "description": "demonstrate an ability to consume new technologies and quickly identify the utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fruit13ok/lightning-learn-pt1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fruit13ok/lightning-learn-pt1/issues"
+  },
+  "homepage": "https://github.com/fruit13ok/lightning-learn-pt1#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
